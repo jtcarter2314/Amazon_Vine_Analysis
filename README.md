@@ -34,3 +34,8 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 ### % of non-Vine reviews were 5 stars
 
 <img width="704" alt="Screen Shot 2021-10-28 at 3 26 36 PM" src="https://user-images.githubusercontent.com/86085982/139331785-691ec382-659f-4ca2-8a34-f50c3d514be5.png">
+
+
+## Summary
+
+I would say that you could find a positive bias of the Vine program within the data, because of the fact that 51% of the data was 5 star rated by reviewers of Vine program compared to the 39%. Additional analysis that could help give more answers to the data is finding the mean, median, and mode withing Vine program and non-Vine program. 
