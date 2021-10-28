@@ -6,18 +6,24 @@ This module is focused on the analyzing Amazon reviews written by members of the
 ## Results
 
 How many Vine reviews and non-Vine reviews were there?
+
 Vine Reviews
-<img width="639" alt="Screen Shot 2021-10-28 at 3 24 45 PM" src="https://user-images.githubusercontent.com/86085982/139331039-5c64ee68-bf86-49e8-88f8-99e1b071aa1a.png">
+
+<img width="590" alt="Screen Shot 2021-10-28 at 3 21 35 PM" src="https://user-images.githubusercontent.com/86085982/139332011-502f7d2b-d5b6-4dc8-bcc0-16fd2487e637.png">
 
 non-Vine Reviews
-<img width="681" alt="Screen Shot 2021-10-28 at 3 25 07 PM" src="https://user-images.githubusercontent.com/86085982/139331119-1ef88293-40e9-4d9d-909f-fb10b56ed9ac.png">
+
+<img width="415" alt="Screen Shot 2021-10-28 at 3 23 34 PM" src="https://user-images.githubusercontent.com/86085982/139332256-1bea3b5d-d0f4-41df-852a-12d704ef69e9.png">
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
 Vine 5 Stars
-<img width="704" alt="Screen Shot 2021-10-28 at 3 26 59 PM" src="https://user-images.githubusercontent.com/86085982/139331538-5cc0ca35-eacb-4e76-87c1-c2deee4caea0.png">
+
+<img width="639" alt="Screen Shot 2021-10-28 at 3 24 45 PM" src="https://user-images.githubusercontent.com/86085982/139332380-454f7f00-a722-4169-9fc9-ef0157218ebc.png">
 
 non-Vine 5 Stars
-<img width="704" alt="Screen Shot 2021-10-28 at 3 26 36 PM" src="https://user-images.githubusercontent.com/86085982/139331640-6453258e-3c8c-45a0-ab5c-ac18cc3196a9.png">
+
+<img width="681" alt="Screen Shot 2021-10-28 at 3 25 07 PM" src="https://user-images.githubusercontent.com/86085982/139332424-09adbf6c-5cbe-4f9a-a29e-eefad5651bf5.png">
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
