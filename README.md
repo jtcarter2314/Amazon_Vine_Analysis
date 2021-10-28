@@ -7,11 +7,11 @@ This module is focused on the analyzing Amazon reviews written by members of the
 
 How many Vine reviews and non-Vine reviews were there?
 
-Vine Reviews
+# Vine Reviews
 
 <img width="590" alt="Screen Shot 2021-10-28 at 3 21 35 PM" src="https://user-images.githubusercontent.com/86085982/139332011-502f7d2b-d5b6-4dc8-bcc0-16fd2487e637.png">
 
-non-Vine Reviews
+# non-Vine Reviews
 
 <img width="415" alt="Screen Shot 2021-10-28 at 3 23 34 PM" src="https://user-images.githubusercontent.com/86085982/139332256-1bea3b5d-d0f4-41df-852a-12d704ef69e9.png">
 
@@ -28,7 +28,9 @@ non-Vine 5 Stars
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 % of Vine reviews were 5 stars
+
 <img width="704" alt="Screen Shot 2021-10-28 at 3 26 59 PM" src="https://user-images.githubusercontent.com/86085982/139331857-8b2f91cd-925c-412f-a06e-6c3c7c0a9af6.png">
 
 % of non-Vine reviews were 5 stars
+
 <img width="704" alt="Screen Shot 2021-10-28 at 3 26 36 PM" src="https://user-images.githubusercontent.com/86085982/139331785-691ec382-659f-4ca2-8a34-f50c3d514be5.png">
